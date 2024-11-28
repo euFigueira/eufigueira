@@ -31,22 +31,19 @@
   </div>
 
 <!-- GithubStats -->
-# 📊 GitHub Stats
+## 📊 My stats
 <a href="https://github.com/eufigueira/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eufigueira&show_icons=true&theme=algolia" />
 </a>
-<a href="https://github.com/eufigueira/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eufigueira&layout=compact&langs_count=8&card_width=320&theme=algolia" />
-</a>
 
 <!-- Portfolio -->
-# Portfólio:
+## 🔎 Projects:
 - [BikCraft](https://github.com/euFigueira/Bikcraft2)
 - [Animais Fantásticos](https://github.com/euFigueira/Bikcraft2)
 - [WildBeast](https://github.com/euFigueira/Wildbeast)
   
 <!-- Tech Stack -->
-# 💻 Tech Stack
+## 💻 My tech Stack
 <!-- Skills: Programming Languages -->
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
