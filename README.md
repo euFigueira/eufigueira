@@ -36,7 +36,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eufigueira&show_icons=true&theme=algolia" />
 </a>
 <a href="https://github.com/eufigueira/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eufigueira&layout=compact&langs_count=8&card_width=290&theme=algolia" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eufigueira&layout=compact&langs_count=8&card_width=320&theme=algolia" />
 </a>
 
 <!-- Portfolio -->
