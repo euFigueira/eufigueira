@@ -38,8 +38,8 @@
 
 <!-- Portfolio -->
 ## 🔎 Projects:
-- [BikCraft](https://github.com/euFigueira/Bikcraft2)
-- [Animais Fantásticos](https://github.com/euFigueira/Bikcraft2)
+- [BikCraft](https://eufigueira.github.io/Bikcraft2/)
+- [Animais Fantásticos](https://eufigueira.github.io/animaisFantasticos/)
 - [Game/Super-Mario](https://eufigueira.github.io/Game-superMario/)
   
 <!-- Tech Stack -->
