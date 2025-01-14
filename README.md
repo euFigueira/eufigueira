@@ -10,6 +10,8 @@
   - 🔭 I'm looking for my first job opportunity in the field. Currently, my dream is to work with Front-end development and eventually become a Full Stack developer.
 
   - 🛠 I'm currently studying React.js <img align="center" src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" width="20">
+
+  - 🔎 Access my portfolio here [Portfólio](https://eufigueira.github.io/newRepository/)
   
 </p>
 
@@ -38,6 +40,7 @@
 
 <!-- Portfolio -->
 ## 🔎 Projects:
+- [Portfólio](https://eufigueira.github.io/newRepository/)
 - [BikCraft](https://eufigueira.github.io/Bikcraft2/)
 - [Animais Fantásticos](https://eufigueira.github.io/animaisFantasticos/)
 - [Game/Super-Mario](https://eufigueira.github.io/Game-superMario/)
